@@ -1,0 +1,15 @@
+<template>
+    <div>
+        Attendance Mannage
+    </div>
+</template>
+
+<style scoped>
+
+</style>
+
+<script>
+export default {
+    
+}
+</script>
